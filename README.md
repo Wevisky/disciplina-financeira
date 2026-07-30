@@ -28,8 +28,10 @@ O projeto tem como objetivo simplificar a gestão financeira pessoal através de
 
 ## Objetivo
 
-Construir uma experiência simples, rápida e intuitiva para acompanhamento financeiro, priorizando a facilidade de uso e a visualização clara das informações.
+O projeto foi desenvolvido para tornar o controle financeiro mais simples, intuitivo e previsível, ajudando o usuário a tomar decisões melhores por meio de análises, planejamento e acompanhamento contínuo do orçamento.
 
 ## Licença
 
-Projeto de uso privado.
+Todos os direitos reservados.
+
+Este projeto é de uso privado e não possui licença de distribuição.
