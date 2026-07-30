@@ -1,47 +1,35 @@
-# Disciplina Financeira Mobile v1.6
+# Disciplina  
 
-Versão mobile-first pronta para publicação gratuita no GitHub Pages e instalação no iPhone.
+## Planejamento Financeiro Inteligente
 
-## Destaques desta versão
-- Navegação inferior realmente fixa à viewport, sempre visível.
-- Respeito às áreas seguras do iPhone.
-- Interface redesenhada para toque e telas pequenas.
-- Formulários em formato de bottom sheet.
-- Funcionamento offline após a primeira abertura.
-- Mantém a mesma chave de armazenamento das versões anteriores.
+Aplicativo para controle de gastos, planejamento financeiro e acompanhamento da disciplina financeira.
 
-# Disciplina Financeira Mobile v1.5
+O projeto tem como objetivo simplificar a gestão financeira pessoal através de um fluxo rápido de lançamentos, planejamento inteligente e indicadores que auxiliam na tomada de decisão.
 
-Versão preparada para testes no computador e futura instalação como aplicativo no iPhone.
+## Principais recursos
 
-## Testar no computador
-1. Extraia o ZIP.
-2. Execute `iniciar.bat`.
-3. Abra `http://127.0.0.1:8088`.
+- Controle de gastos
+- Planejamento financeiro
+- Objetivo mensal de despesas
+- Orçamento diário inteligente
+- Planejamento de gastos recorrentes
+- Reserva Inteligente
+- Calendário financeiro
+- Indicadores e gráficos
+- Progressive Web App (PWA)
+- Funcionamento offline após a primeira sincronização
 
-Os dados existentes da v1.4 são preservados quando você usa o mesmo navegador e endereço.
+## Tecnologias
 
-## Testar a aparência de iPhone no Chrome/Edge
-1. Pressione F12.
-2. Ative o ícone de celular/tablet.
-3. Escolha um modelo de iPhone.
-4. Teste lançamento, calendário, menus, edição e backup.
+- HTML5
+- CSS3
+- JavaScript
+- Progressive Web App (PWA)
 
-## Instalar no iPhone
-A instalação exige HTTPS. Depois de aprovar os testes, publique gratuitamente a pasta em GitHub Pages ou Cloudflare Pages. No iPhone:
-1. Abra o endereço no Safari.
-2. Toque em Compartilhar.
-3. Toque em Adicionar à Tela de Início.
-4. Abra pelo ícone Disciplina.
+## Objetivo
 
-## Nesta versão
-- Manifesto PWA completo.
-- Ícones para tela inicial e modo maskable.
-- Funcionamento offline após o primeiro acesso.
-- Barra inferior fixa com suporte à área segura do iPhone.
-- Teclado e controles ajustados para toque.
-- Instruções de instalação dentro de Ajustes.
-- Sem servidor pago ou API.
+Construir uma experiência simples, rápida e intuitiva para acompanhamento financeiro, priorizando a facilidade de uso e a visualização clara das informações.
 
-## Face ID
-Ainda não está ativo. Primeiro validaremos a PWA instalada. Depois podemos avaliar bloqueio nativo do iPhone ou WebAuthn, sem alterar o motor financeiro.
+## Licença
+
+Projeto de uso privado.
